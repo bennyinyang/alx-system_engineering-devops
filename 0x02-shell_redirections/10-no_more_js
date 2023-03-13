@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "rm *.js . .."
+tail -1 iacta >> iacta
